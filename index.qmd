@@ -1,0 +1,19 @@
+# Préface {.unnumbered}
+
+Ce document permet le suivi des cours enfants du mercredi.
+
+## Structure d'un cours standard
+
+- Salut traditionnel de début du cours
+- Échauffement
+- Rappel sur le cours précédent : "Qu'a-t-on fait la semaine dernière ?"
+- Apprentissages de base
+  - chutes
+  - déplacements
+- Techniques (3 max)
+- Jeux
+- Salut traditionnel de fin de cours
+
+## Suivi des présences
+
+[Tableau des présences](https://docs.google.com/spreadsheets/d/1Goch-T9ORkWNL5CKAm65o29YaEo6lozVJojf4X7CVhM/edit?usp=sharing)

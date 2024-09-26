@@ -1,0 +1,184 @@
+# Septembre 2024 {.unnumbered}
+
+# `[2024-09-11]`
+
+**Pratique**
+
+- apprentissage de la chute arrière
+- saisie Katate Dori
+  - et déplacement en gardant les mains devant soi
+
+_**Saisie Katate Dori**_
+
+- [x] **kokyu nage**
+
+::: {.callout-tip title="**kokyu nage**" collapse="true"}
+- se décaler vers l'extérieur en écartant le bras
+- saisie du coude de Uke pouce vers le bas
+- avancer : irimi
+- Uke : chute arrière
+:::
+
+- [x] **tenchi nage**
+
+::: {.callout-tip title="**tenchi nage**" collapse="true"}
+- se décaler vers l'extérieur en écartant le bras vers le bas
+- monter la main le long du corps de Uke et tendre le bras vers le haut
+- avancer en laissant tomber le bras: irimi
+- Uke : chute arrière
+:::
+
+- [x] **sokumen irimi nage** (henka)
+
+::: {.callout-tip title="**sokumen irimi nage**" collapse="true"}
+- avancer, pas chassé
+- henka
+- monter le bras
+- henka
+- irimi
+- Uke : chute arrière 
+:::
+
+- [x] salut
+
+**Présents** : Mathis, Iban
+
+{{< pagebreak >}}
+
+# `[2024-09-18]`
+
+**Objectifs**
+
+- placement en katate dori
+- omote & ura
+
+**Pratique**
+
+- [x] salut et échauffement
+- [x] courir en rond : un peu de cardio
+
+::: {.callout-tip title="cardio" collapse="true"}
+- changements de direction
+- flexion au "top"
+- marche à quatre pattes
+- marcher tranquillement
+:::
+
+- [x] apprentissage de la chute arrière & chute avant (tapis)
+- [x] qu'a-t-on fait mercredi dernier et/ou samedi dernier ?
+- [x] saisie Katate Dori (rappel)
+  - et déplacement en gardant les mains devant soi
+
+_**Saisie Katate Dori**_
+
+- [x] **shiho nage omote**
+
+::: {.callout-tip title="**shiho nage omote**" collapse="true"}
+- tori déplace sa jambe arrière vers l'extérieur
+- tori avec sa main non saisie saisit le poignet de uke
+- tori fait un pas chassé (pied intérieur) et levant les bras sur sa tête
+- tori fait henka
+- tori descend ses mains jusqu'à son pied avant
+- uke fait une chute arrière
+:::
+
+- [x] **shiho nage ura**
+  
+::: {.callout-tip title="**shiho nage ura**" collapse="true"}
+- tori avec sa main non saisie saisit le poignet de uke 
+- tori fait un pas chassé sur le coté 
+- tori monte les bras
+- tori fait tenkan
+- tori descend ses mains jusqu'à son pied avant
+- uke : chute arrière 
+:::
+  
+- [x] **kokyu nage (uchi kaiten)**
+  
+::: {.callout-tip title="**kokyu nage (uchi kaiten)**" collapse="true"}
+- tori fait un pas chassé à l'extérieur en s'écartant un peu et lève le bras saisi au niveau des épaules
+- tori passe sous le bras de uke
+- tori fait henka
+- tori fait un pas chassé (pied avant) et pose la main de uke au sol
+- uke fait une chute avant (on pose bien la main au sol)
+:::
+  
+- [x] retour au calme : allongé, respiration profonde et calme
+- [x] salut
+
+**Présents** : Michel, Louise, Paul, Loup-Gaspard (1er cours),Théodore, Mathis
+
+{{< pagebreak >}}
+
+# `[2024-09-25]`
+
+**Objectifs**
+
+- placement en Ai hanmi katate dori
+- première immobilisation
+- omote & ura
+
+**Pratique**
+
+- [x] salut et échauffement
+- [x] courir en rond : un peu de cardio
+
+::: {.callout-tip title="cardio" collapse="true"}
+- changements de direction
+- flexion au "top"
+- marche à quatre pattes
+- marcher tranquillement
+:::
+
+- [x] apprentissage de la chute arrière & chute avant (tapis)
+- [x] qu'a-t-on fait mercredi dernier et/ou samedi dernier ?
+
+_**Saisie Ai Hanmi Katate Dori**_
+
+- [x] **ikkyo omote**
+
+::: {.callout-tip title="**ikkyo omote** (devant)" collapse="true"}
+- tori présente sa main, pouce en bas
+- tori déplace sa jambe avant vers l'intérieur, la jambe arrière suit
+  - les hanches de tori sont face à uke
+- tori monte sa main en direction de uke
+- tori saisit en pince le coude de uke
+- tori avance sa jambe arrière 
+- tori coupe et s'écarte 
+- tori descend à genoux en entrainant uke
+- tori fait l'immobilisation
+- uke suit et se met en protection
+- tori sort proprement de l'immobilisation
+- tori et uke se relèvent
+:::
+
+- [ ] **ikkyo ura**
+
+::: {.callout-tip title="**ikkyo ura**  (derrière)" collapse="true"}
+- tori présente sa main, pouce en bas
+- tori lève le bras de uke pour se faire le passage et saisit le coude
+- tori déplace loin sa jambe arrière vers l'extérieur
+  - il se retrouve au niveau des épaules de uke
+- tori fait tenkan
+- tori descend en spirale 
+- même fin que pour omote
+:::
+
+
+- [x] **irimi nage**
+
+::: {.callout-tip title="**irimi nage**" collapse="true"}
+- tori présente sa main, pouce en bas
+- tori lève le bras de uke pour se faire le passage
+- tori déplace loin sa jambe arrière vers l'extérieur
+  - il se retrouve au niveau des épaules de uke
+- tori fait henka en saisissant la tête de uke et en la posant sur l'épaule
+- tori fait un pas chassé en laissant tomber le bras
+- uke fait une chute arrière
+:::
+
+- [x] **kokyu ho**
+
+- [x] salut
+
+**Présents** : Michel, Iban, Mathis, Théodore

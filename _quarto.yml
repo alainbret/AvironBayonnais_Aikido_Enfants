@@ -1,0 +1,42 @@
+project:
+  type: book
+  output-dir: site
+
+book:
+  title: Suivi des cours enfants du mercredi
+  author:
+    - "Alain BRET"
+  date:   today
+  date-format: "YYYY-MM-DD"
+  output-file: logbook
+  downloads: [pdf]
+  cover-image: AAB_2020_logo_rect_texte.png
+  chapters:
+    - index.qmd
+    - part: "Saison 2024-2025"
+      chapters:
+      - 2024-09.qmd
+
+page-navigation: true
+papersize: a4
+geometry:
+  - left=25mm
+  - right=25mm
+  - top=25mm
+  - bottom=25mm
+colorlinks: true
+lang: fr
+
+number-sections: true
+format:
+  html:
+    theme: journal
+    default-image-extension: png
+  pdf:
+    documentclass: scrreprt
+    default-image-extension: pdf
+    fig-pos: H
+    link-citations: true
+
+
+

@@ -16,6 +16,7 @@ book:
     - part: "Saison 2024-2025"
       chapters:
       - 2024-09.qmd
+      - 2024-10.qmd
 
 page-navigation: true
 papersize: a4

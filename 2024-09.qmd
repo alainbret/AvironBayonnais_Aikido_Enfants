@@ -1,6 +1,6 @@
 # Septembre 2024 {.unnumbered}
 
-# `[2024-09-11]`
+## `[2024-09-11]`
 
 **Pratique**
 
@@ -45,7 +45,7 @@ _**Saisie Katate Dori**_
 
 {{< pagebreak >}}
 
-# `[2024-09-18]`
+## `[2024-09-18]`
 
 **Objectifs**
 
@@ -110,7 +110,7 @@ _**Saisie Katate Dori**_
 
 {{< pagebreak >}}
 
-# `[2024-09-25]`
+## `[2024-09-25]`
 
 **Objectifs**
 

@@ -4,15 +4,16 @@ Ce document permet le suivi des cours enfants du mercredi.
 
 ## Structure d'un cours standard
 
-- Salut traditionnel de début du cours
-- Échauffement
-- Rappel sur le cours précédent : "Qu'a-t-on fait la semaine dernière ?"
-- Apprentissages de base
+- [ ] Salut traditionnel de début du cours
+- [ ] Échauffement
+- [ ] Rappel sur le cours précédent : "Qu'a-t-on fait la semaine dernière ?"
+- [ ] Apprentissages de base
   - chutes
   - déplacements
-- Techniques (3 max)
-- Jeux
-- Salut traditionnel de fin de cours
+- [ ] Techniques (3 max)
+- [ ] [Jeux]
+- [ ] Retour au calme
+- [ ] Salut traditionnel de fin de cours
 
 ## Suivi des présences
 

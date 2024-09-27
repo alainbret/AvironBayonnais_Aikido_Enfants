@@ -6,10 +6,8 @@ Ce document permet le suivi des cours enfants du mercredi.
 
 - [ ] Salut traditionnel de début du cours
 - [ ] Échauffement
+- [ ] Apprentissages de base : chutes, déplacements...
 - [ ] Rappel sur le cours précédent : "Qu'a-t-on fait la semaine dernière ?"
-- [ ] Apprentissages de base
-  - chutes
-  - déplacements
 - [ ] Techniques (3 max)
 - [ ] [Jeux]
 - [ ] Retour au calme

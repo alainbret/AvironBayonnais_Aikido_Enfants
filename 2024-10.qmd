@@ -33,7 +33,7 @@ _**Saisie Ai Hanmi Katate Dori**_
 
 - [ ] **irimi nage** - consolidation
 
-::: {.callout-tip title="**irimi nage**" collapse="true"}
+::: {.callout-tip title="consignes" collapse="true"}
 - tori présente sa main, pouce en bas
 - tori lève le bras de uke pour se faire le passage
 - tori déplace loin sa jambe arrière vers l'extérieur
@@ -45,7 +45,7 @@ _**Saisie Ai Hanmi Katate Dori**_
 
 - [ ] **ikkyo ura**
 
-::: {.callout-tip title="**ikkyo ura**" collapse="true"}
+::: {.callout-tip title="consignes" collapse="true"}
 - tori présente sa main, pouce en bas
 - tori lève le bras de uke pour se faire le passage et saisit le coude
 - tori déplace loin sa jambe arrière vers l'extérieur
@@ -57,7 +57,7 @@ _**Saisie Ai Hanmi Katate Dori**_
 
 - [ ] **shiho nage ura**
 
-::: {.callout-tip title="**shiho nage ura**" collapse="true"}
+::: {.callout-tip title="consignes" collapse="true"}
 - tori présente sa main, paume vers le haut
 - tori fait une rotation du poignet pour être en appui sur celui de uke
 - tori saisit, avec sa main libre, le poignet de uke

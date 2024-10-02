@@ -10,8 +10,8 @@
 
 **Pratique**
 
-- [ ] salut et échauffement
-- [ ] courir en rond : un peu de cardio
+- [x] salut et échauffement
+- [x] courir en rond : un peu de cardio
 
 ::: {.callout-tip title="cardio" collapse="true"}
 - changements de direction
@@ -20,8 +20,8 @@
 - marcher tranquillement
 :::
 
-- [ ] apprentissage de la chute arrière & chute avant (tapis)
-- [ ] qu'a-t-on fait mercredi dernier et/ou samedi dernier ?
+- [x] apprentissage de la chute arrière & chute avant (tapis)
+- [x] qu'a-t-on fait mercredi dernier et/ou samedi dernier ?
 
 ::: {.callout-tip title="rappel" collapse="true"}
 - Ai Hanmi Katate Dori
@@ -31,7 +31,7 @@
 
 _**Saisie Ai Hanmi Katate Dori**_
 
-- [ ] **irimi nage** - consolidation
+- [x] **irimi nage** - consolidation
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - tori présente sa main, pouce en bas
@@ -43,7 +43,7 @@ _**Saisie Ai Hanmi Katate Dori**_
 - uke fait une chute arrière
 :::
 
-- [ ] **ikkyo ura**
+- [x] **ikkyo ura**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - tori présente sa main, pouce en bas
@@ -55,7 +55,7 @@ _**Saisie Ai Hanmi Katate Dori**_
 - même fin que pour omote
 :::
 
-- [ ] **shiho nage ura**
+- [x] **shiho nage ura**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - tori présente sa main, paume vers le haut
@@ -68,10 +68,10 @@ _**Saisie Ai Hanmi Katate Dori**_
 - uke fait une chute arrière
 :::
 
-- [ ] kokyu ho | étirements | respiration | relaxation
+- [x] kokyu ho | étirements | respiration | relaxation
 
-- [ ] salut
+- [x] salut
 
-**Présents** : TBW
+**Présents** : Loup-Gaspard, Paul, Souheil, Iban, Mathis
 
 {{< pagebreak >}}

@@ -75,3 +75,57 @@ _**Saisie Ai Hanmi Katate Dori**_
 **Présents** : Loup-Gaspard, Paul, Souheil, Iban, Mathis
 
 {{< pagebreak >}}
+
+## `[2024-10-09]`
+
+**Objectifs**
+
+- consolidation katate dori (avant les vacances)
+
+**Pratique**
+
+- [ ] **salut**
+- [ ] **échauffement**
+- [ ] **cardio**
+
+::: {.callout-tip title="consignes" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 X2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **apprentissage de la chute arrière & chute avant (tapis)**
+- [ ] **henka / tenkan / tai sabaki**
+- [ ] **qu'a-t-on fait depuis le début de la saison en katate dori ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+- kokyu nage (sortie extérieure et main dans le coude)
+- tenchi nage
+- sokomen irimi nage
+- shiho nage omote / ura
+- kokyu nage (uchi kaiten)
+:::
+
+_**Saisie Katate Dori**_
+
+- [ ] **kokyu nage** - révision
+
+::: {.callout-tip title="consignes" collapse="true"}
+les deux formes
+:::
+
+- [ ] **tenchi nage**
+- [ ] **sokomen irimi nage**
+- [ ] **shiho nage omote / ura**
+- [ ] **retour au calme**
+  - kokyu ho | étirements | respiration | relaxation
+- [ ] **salut**
+
+**Présents** : ...
+
+{{< pagebreak >}}

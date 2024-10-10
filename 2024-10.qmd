@@ -84,24 +84,24 @@ _**Saisie Ai Hanmi Katate Dori**_
 
 **Pratique**
 
-- [ ] **salut**
-- [ ] **échauffement**
-- [ ] **cardio**
+- [x] **salut**
+- [x] **échauffement**
+- [x] **cardio**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 courir en rond : 
 
 - changements de direction
-- flexion au "top" : x1 X2 x3
+- flexion au "top" : x1 x2 x3
 - pas chassés : intérieurs puis extérieurs
 - talons-fesses
 - marcher tranquillement
 - shin kokyū
 :::
 
-- [ ] **apprentissage de la chute arrière & chute avant (tapis)**
-- [ ] **henka / tenkan / tai sabaki**
-- [ ] **qu'a-t-on fait depuis le début de la saison en katate dori ?**
+- [x] **apprentissage de la chute arrière & chute avant (tapis)**
+- [x] **henka / tenkan / tai sabaki**
+- [x] **qu'a-t-on fait depuis le début de la saison en katate dori ?**
 
 ::: {.callout-tip title="rappel" collapse="true"}
 - kokyu nage (sortie extérieure et main dans le coude)
@@ -113,19 +113,19 @@ courir en rond :
 
 _**Saisie Katate Dori**_
 
-- [ ] **kokyu nage** - révision
+- [x] **kokyu nage** - révision
 
 ::: {.callout-tip title="consignes" collapse="true"}
 les deux formes
 :::
 
-- [ ] **tenchi nage**
-- [ ] **sokomen irimi nage**
-- [ ] **shiho nage omote / ura**
-- [ ] **retour au calme**
-  - kokyu ho | étirements | respiration | relaxation
-- [ ] **salut**
+- [x] **tenchi nage**
+- [x] **sokomen irimi nage**
+- [x] **shiho nage omote / ura**
+- [x] **retour au calme**
+  - kokyu ho | **étirements** | respiration | relaxation
+- [x] **salut**
 
-**Présents** : ...
+**Présents** : Michel, Mathis, Théodore, Loup-Gaspard
 
 {{< pagebreak >}}

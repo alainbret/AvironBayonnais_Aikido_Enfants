@@ -155,7 +155,7 @@ courir en rond :
 
 - [x] **apprentissage de la chute arrière & chute avant (tapis)**
 - [ ] **henka / tenkan / tai sabaki**
-- [x] **qu'a-t-on fait depuis le début de la saison en Ai Hanmi Katate Dorii ?**
+- [x] **qu'a-t-on fait depuis le début de la saison en Ai Hanmi Katate Dori ?**
 
 ::: {.callout-tip title="rappel" collapse="true"}
 - ikkyo omote / ura
@@ -168,6 +168,7 @@ _**Saisie Ai Hanmi Katate Dori**_
 - [x] **ikkyo omote / ura**
 - [x] **irimi nage**
 - [x] **shiho nage *omote* / ura**
+- [x] **retour au calme**
   - kokyu ho | **étirements** | respiration | relaxation
 - [x] **salut**
 

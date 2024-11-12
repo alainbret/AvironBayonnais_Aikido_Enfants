@@ -1,0 +1,96 @@
+# Novembre 2024 {.unnumbered}
+
+## `[2024-11-13]`
+
+**Objectifs**
+
+- attaque `shomen uchi`
+- `shomen uchi` suite à `ai hanmi katate dori`
+
+**Pratique**
+
+- [ ] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **apprentissage de la chute arrière & chute avant (tapis)**
+- [ ] **henka / tenkan / tai sabaki**
+- [ ] **qu'a-t-on fait mercredi dernier et/ou samedi dernier ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+- cours de Patrice mercredi dernier
+- cours de ? samedi dernier
+:::
+
+_**Attaque `Shomen Uchi` (directe)**_
+
+- [ ] **Attaque `shomen uchi`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke et tori pied droit devant (puis inverser)
+  - vérifier la distance
+- uke lève sa main droite au dessus de sa tête
+- uke fait un pas chassé avec son pied avant et em même temps lance sa frappe
+  - la main doit s'arrêter juste au dessus de la tête de tori
+:::
+
+
+- [ ] **ikkyo omote**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke attaque en `shomen`
+- tori se déplace vers l'intérieur bras avant levé
+  - contrôle du bras sans saisir
+- tori vient saisir le coude de uke en pince 
+- tori avance sa jambe arrière
+- tori finit ikkyo
+  - descendre le bras
+  - avancer dans le déséquilibre
+  - immobilisation
+:::
+
+- [ ] **ikkyo ura**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke attaque en `shomen`
+- tori se décale légèrement vers l'extérieur bras levé (pied arrière)
+  - contrôle du bras sans saisir
+- tori vient saisir le coude de uke en pince en avançant sa jambe arrière (irimi)
+- tori fait henka
+- tori fait tenkan
+- tori finit l'immobilisation
+:::
+
+- [ ] **irimi nage (direct)**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke attaque en `shomen`
+- tori se décale légèrement vers l'extérieur bras levé (pied arrière)
+  - contrôle du bras sans saisir
+- tori vient saisir le cou de uke  en avançant sa jambe arrière loin derrière uke (irimi)
+  - tori doit voir le dos de uke
+  - tête de uke sur l'épaule de tori
+- tori laisse tomber le bras qui contrôle le bras de uke, remonte son bras vers le côté de la tête de uke 
+- tori avance en irimi et laisse tomber son bras
+  - tori ne lache pas la tête de uke (ou fait glisser sa main dans son dos)
+- tori finit l'immobilisation
+:::
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+
+- [ ] **salut**
+
+**Présents** : ???
+
+{{< pagebreak >}}
+

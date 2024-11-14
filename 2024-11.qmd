@@ -9,7 +9,8 @@
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
+
 - [ ] **courir en rond : un peu de cardio**
 
 ::: {.callout-tip title="cardio" collapse="true"}
@@ -23,8 +24,10 @@ courir en rond :
 - shin kokyū
 :::
 
-- [ ] **apprentissage de la chute arrière & chute avant (tapis)**
-- [ ] **henka / tenkan / tai sabaki**
+- [x] **henka / tenkan / tai sabaki**
+
+- [x] **apprentissage de la chute arrière & chute avant (tapis)**
+
 - [ ] **qu'a-t-on fait mercredi dernier et/ou samedi dernier ?**
 
 ::: {.callout-tip title="rappel" collapse="true"}
@@ -34,7 +37,7 @@ courir en rond :
 
 _**Attaque `Shomen Uchi` (directe)**_
 
-- [ ] **Attaque `shomen uchi`**
+- [x] **Attaque `shomen uchi`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke et tori pied droit devant (puis inverser)
@@ -45,7 +48,7 @@ _**Attaque `Shomen Uchi` (directe)**_
 :::
 
 
-- [ ] **ikkyo omote**
+- [x] **ikkyo omote**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`
@@ -59,7 +62,7 @@ _**Attaque `Shomen Uchi` (directe)**_
   - immobilisation
 :::
 
-- [ ] **ikkyo ura**
+- [x] **ikkyo ura**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`
@@ -71,7 +74,7 @@ _**Attaque `Shomen Uchi` (directe)**_
 - tori finit l'immobilisation
 :::
 
-- [ ] **irimi nage (direct)**
+- [x] **irimi nage (direct)**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`
@@ -86,11 +89,21 @@ _**Attaque `Shomen Uchi` (directe)**_
 - tori finit l'immobilisation
 :::
 
-- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [x] **kote gaeshi** 
 
-- [ ] **salut**
+::: {.callout-tip title="consignes" collapse="true"}
+- uke attaque en `shomen`
+- tori lève le bras avant pour contrôler l'attaque et sort à 90°
+- tori fait un changement de hanmi et avec la main libre descend sur le poignet d'uke
+- tori finit kote gaeshi en faisant un irimi derrière uke et en descendant les mains à son pied avant
+- uke fait une chutte arrière
+:::
 
-**Présents** : ???
+- [x] **kokyu ho | étirements | respiration | relaxation**
+
+- [x] **salut**
+
+**Présents** : Mathis, Paul et Loup-Gaspard
 
 {{< pagebreak >}}
 

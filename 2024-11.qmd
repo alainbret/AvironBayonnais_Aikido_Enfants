@@ -203,7 +203,7 @@ Idem semaine dernière !
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
 
 - [ ] **courir en rond : un peu de cardio**
 
@@ -218,11 +218,11 @@ courir en rond :
 - shin kokyū
 :::
 
-- [ ] **henka / tenkan / tai sabaki**
+- [x] **henka / tenkan / tai sabaki**
 
-- [ ] **apprentissage de la chute arrière & chute avant (tapis)**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
 
-- [ ] **qu'a-t-on fait mercredi dernier ?**
+- [x] **qu'a-t-on fait mercredi dernier ?**
 
 ::: {.callout-tip title="rappel" collapse="true"}
 - attaque shomen uchi
@@ -230,11 +230,11 @@ courir en rond :
   - irimi nage
 :::
 
-- [ ] **Faire ces 3 techniques, deux fois**
+- [x] **Faire ces 3 techniques, deux fois**
 
-_**Attaque `Shomen Uchi` (directe)**_
+_**Attaque `Shomen Uchi`**_
 
-- [ ] **sokomen irimi nage**
+- [x] **sokumen irimi nage**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`
@@ -250,7 +250,7 @@ _**Attaque `Shomen Uchi` (directe)**_
   - uke fait une chute arrière
 :::
 
-- [ ] **kaiten nage**
+- [x] **kaiten nage**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`
@@ -264,7 +264,7 @@ _**Attaque `Shomen Uchi` (directe)**_
 - uke fait une chute avant
 :::
 
-- [ ] **Jyu waza sur shomen uchi** 
+- [x] **Jyu waza sur shomen uchi** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - les techniques vues
@@ -273,9 +273,9 @@ _**Attaque `Shomen Uchi` (directe)**_
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 
-- [ ] **salut**
+- [x] **salut**
 
-**Présents** : TBD
+**Présents** : Iban, Loup-Gaspard, Mathis
 
 {{< pagebreak >}}
 

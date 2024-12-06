@@ -163,7 +163,7 @@ _**Attaque `Shomen Uchi` (directe)**_
   - uke fait une chute arrière
 :::
 
-- [ ] **kaiten nage**
+- [ ] **soto kaiten nage**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`
@@ -250,7 +250,7 @@ _**Attaque `Shomen Uchi`**_
   - uke fait une chute arrière
 :::
 
-- [x] **kaiten nage**
+- [x] **soto kaiten nage**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke attaque en `shomen`

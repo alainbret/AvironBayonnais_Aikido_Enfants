@@ -1,0 +1,146 @@
+---
+title: "Tableau de Bord Cours Enfants (saison 2024-2025)"
+date:   today
+date-format: "YYYY-MM-DD"
+format: 
+  dashboard:
+    orientation: columns
+logo: images/AAB_2020_logo_carre_fanion.png
+logo-alt: "Aviron Bayonnais section Aïkido."
+---
+
+```{r}
+#| label: load-packages
+library(tidyverse)
+library(gt)
+library(scales)
+library(knitr)
+```
+
+```{r}
+#| label: load-data
+# Les données sont sous NextCloud accessibles via WebDAV (synchro)
+df_nc <- read.csv("/home/alain/Nextcloud_abret/Documents/Data/Cours_Enfants_Présences.csv")
+```
+
+```{r}
+#| label: prep-data
+df_cours <- df_nc[,1:4] |>
+  dplyr::mutate(Quand=Date)
+#summary(df_cours)
+df_cours$Date <- as.Date(df_cours$Date, format="%Y-%m-%d")
+df_cours <- df_cours |>
+  dplyr::mutate(Mois = factor(format(Date, "%Y-%m"))) |>
+  dplyr::rename(Nbre = Total.cours) |>
+  dplyr::mutate(Jour = factor(Jour , levels=c("samedi","mercredi")))
+```
+
+# Graphiques
+
+## Column - fréquentation {width=60%}
+
+
+```{r}
+#| label: frequentation-cours
+#| title: Fréquentation par cours
+
+graph1 <- ggplot(data = df_cours, aes(x = Quand, y = Nbre, group = 1)) +
+  geom_point() +
+  geom_line(color="steelblue") +
+  theme(axis.text.x=element_text(angle=90, hjust=1)) +
+  ylim(0, max(df_cours$Nbre) + 1) +
+  xlab("Jour") 
+plotly::ggplotly(graph1)
+``` 
+
+
+```{r}
+#| label: frequentation-boxplot-mois
+#| title: Distribution de la fréquentation par cours
+
+graph2 <- ggplot(data = df_cours, aes(x = Mois, y = Nbre)) +
+  geom_boxplot(aes(fill=Jour)) +
+  facet_grid(.~Jour)+
+  stat_summary(fun=mean, geom="point", colour = "black", shape=10, size = 2) +
+  theme(axis.text.x=element_text(angle=90, hjust=1), legend.position = "none") +
+  xlab("Mois") +
+  ylim(0, max(df_cours$Nbre) + 1) +
+  scale_fill_brewer(palette="Blues") 
+
+plotly::ggplotly(graph2)
+``` 
+
+## Column - Présences {width=30%}
+
+```{r}
+#| label: presence
+#| title: Présence aux cours
+
+df_presences <- df_nc[,5:ncol(df_nc)]
+df_presences[is.na(df_presences)] <- 0
+presences <- sort(colSums(df_presences), decreasing = TRUE)
+tab_presences <- as.data.frame(presences)
+names(tab_presences)<- c("Cours")
+tab_presences <- data.frame(Pratiquant=names(presences), tab_presences)
+gt(tab_presences)
+``` 
+
+::: {.card title="Analyse"}
+Mise à jour : `{r} Sys.Date()`
+
+{{< include _analyse.md >}}
+:::
+
+# Statistiques
+
+## Column - fréquentation {width=50%}
+
+```{r}
+#| label: frequentation-cours-stats
+#| title: Fréquentation par cours
+
+table_summary_cours <- df_cours %>%
+    dplyr::summarise(
+        obs=n(),
+        min=round(min(Nbre, na.rm=T), 2),
+        Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
+        médiane=round(median(Nbre, na.rm=T), 2),
+        moyenne=round(mean(Nbre, na.rm=T), 2),
+        Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
+        max=round(max(Nbre, na.rm=T), 2))
+knitr::kable(table_summary_cours)
+``` 
+
+```{r}
+#| label: frequentation-cours-mois
+#| title: Fréquentation par mois
+
+table_summary_cours_mois <- df_cours %>%
+    dplyr::group_by(Mois) %>%
+    dplyr::summarise(
+        obs=n(),
+        min=round(min(Nbre, na.rm=T), 2),
+        Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
+        médiane=round(median(Nbre, na.rm=T), 2),
+        moyenne=round(mean(Nbre, na.rm=T), 2),
+        Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
+        max=round(max(Nbre, na.rm=T), 2))
+knitr::kable(table_summary_cours_mois)
+```
+
+```{r}
+#| label: frequentation-cours-jour
+#| title: Fréquentation par jour
+
+table_summary_cours_jour <- df_cours %>%
+    dplyr::group_by(Jour) %>%
+    dplyr::summarise(
+        obs=n(),
+        min=round(min(Nbre, na.rm=T), 2),
+        Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
+        médiane=round(median(Nbre, na.rm=T), 2),
+        moyenne=round(mean(Nbre, na.rm=T), 2),
+        Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
+        max=round(max(Nbre, na.rm=T), 2))
+knitr::kable(table_summary_cours_jour)
+```

@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Site protégé"
+AuthUserFile "/homez.1032/avirony/.htpasswds/aikido/passwd"
+# ou bien
+#AuthUserFile "/homez.1032/avirony/.htpasswds/section/sous-site/passwd"
+Require valid-user
+

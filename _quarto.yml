@@ -18,6 +18,7 @@ book:
       - 2024-09.qmd
       - 2024-10.qmd
       - 2024-11.qmd
+      - 2024-12.qmd
 page-navigation: true
 papersize: a4
 geometry:

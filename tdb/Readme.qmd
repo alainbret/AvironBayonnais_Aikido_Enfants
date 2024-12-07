@@ -1,0 +1,73 @@
+---
+title:  "Cours Enfants - Tableau de Bord"
+subtitle: "Mode opératoire"
+author: 
+  - Alain BRET
+date:   today
+date-format: "YYYY-MM-DD"
+documentclass: scrartcl
+papersize: a4
+lang: fr-FR
+pdf-engine: xelatex
+format:
+  pdf: 
+    toc: false
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    shift-heading-level-by: 0
+---
+
+# Pré-requis
+
+**Google**
+
+- compte Google : `avironbayonnaisaikido@gmail.com`
+- fichier Google Sheet : `Mon Drive/Cours_Enfants/Cours_Enfants_Présences`
+- GitHub : `/home/alain/GitHub/AvironBayonnais_Aikido_Enfants/tdb`
+- compte ftp : `avirony-aikido`
+- Répertoire de publication : `/interne/cours-enfants/tdb`
+
+**NextCloud** (instance de test)
+
+- compte NextCloud : `abret`
+- montage WebDAV : `/home/alain/Nextcloud_abret/Documents/Data`
+
+# Édition
+
+*Récupération des données*
+
+- ouvrir le fichier `Cours_Enfants_Présences`
+  - soit directement en cliquant sur le lien du site
+  - soit en cliquant sur le fichier sur le Google Drive monté
+- s'assurer que le fichier `Cours_Enfants_Présences` a bien été mis à jour
+- exporter en `.csv` le fichier dans `/home/alain/Downloads`
+- copie et écrasement au besoin de `/home/alain/Downloads/Cours_Enfants_Présences.csv` vers `/home/alain/Nextcloud_abret/Documents/Data`
+
+{{< pagebreak >}}
+
+*Génération d'une première version du TDB*
+
+- dans le répertoire de GitHub, 
+  - ouvrir le fichier `index.qmd` 
+  - lancer sous `RStudio` la génération du TDB
+- analyser les résultats (graphiques et statistiques)
+- consigner l'analyse dans `_analyse.md`
+
+*Génération de la version à publier*
+
+- lancer sous `Rstudio` la génération du TDB
+- vérifier le TDB produit et mettre à jour au besoin
+
+# Publication
+
+- ftp `avirony-aikido`
+- source : `/home/alain/GitHub/AvironBayonnais_Aikido_Enfants/tdb`
+- destination : `/interne/cours-enfants/tdb`
+- répertoires (R) et fichiers (F) à transférer
+  - R: `images`
+  - R: `index_files`
+  - F: `.htaccess`
+  - F: `index.html`
+  
+

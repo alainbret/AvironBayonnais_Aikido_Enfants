@@ -5,6 +5,9 @@ date-format: "YYYY-MM-DD"
 format: 
   dashboard:
     orientation: columns
+    theme: 
+      light: cerulean
+      dark: darkly
 logo: images/AAB_2020_logo_carre_fanion.png
 logo-alt: "Aviron Bayonnais section Aïkido."
 ---
@@ -56,7 +59,7 @@ plotly::ggplotly(graph1)
 
 ```{r}
 #| label: frequentation-boxplot-mois
-#| title: Distribution de la fréquentation par cours
+#| title: Distribution de la fréquentation par mois
 
 graph2 <- ggplot(data = df_cours, aes(x = Mois, y = Nbre)) +
   geom_boxplot(aes(fill=Jour)) +
@@ -95,13 +98,15 @@ Mise à jour : `{r} Sys.Date()`
 
 ## Column - fréquentation {width=50%}
 
+### {height="20%"}
+
 ```{r}
 #| label: frequentation-cours-stats
 #| title: Fréquentation par cours
-
+#| 
 table_summary_cours <- df_cours %>%
     dplyr::summarise(
-        obs=n(),
+        cours=n(),
         min=round(min(Nbre, na.rm=T), 2),
         Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
         médiane=round(median(Nbre, na.rm=T), 2),
@@ -109,7 +114,9 @@ table_summary_cours <- df_cours %>%
         Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
         max=round(max(Nbre, na.rm=T), 2))
 knitr::kable(table_summary_cours)
-``` 
+```
+
+### {height="40%"}
 
 ```{r}
 #| label: frequentation-cours-mois
@@ -118,7 +125,7 @@ knitr::kable(table_summary_cours)
 table_summary_cours_mois <- df_cours %>%
     dplyr::group_by(Mois) %>%
     dplyr::summarise(
-        obs=n(),
+        cours=n(),
         min=round(min(Nbre, na.rm=T), 2),
         Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
         médiane=round(median(Nbre, na.rm=T), 2),
@@ -128,6 +135,8 @@ table_summary_cours_mois <- df_cours %>%
 knitr::kable(table_summary_cours_mois)
 ```
 
+### {height="25%"}
+
 ```{r}
 #| label: frequentation-cours-jour
 #| title: Fréquentation par jour
@@ -135,7 +144,7 @@ knitr::kable(table_summary_cours_mois)
 table_summary_cours_jour <- df_cours %>%
     dplyr::group_by(Jour) %>%
     dplyr::summarise(
-        obs=n(),
+        cours=n(),
         min=round(min(Nbre, na.rm=T), 2),
         Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
         médiane=round(median(Nbre, na.rm=T), 2),

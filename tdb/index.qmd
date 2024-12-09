@@ -28,13 +28,13 @@ df_nc <- read.csv("/home/alain/Nextcloud_abret/Documents/Data/Cours_Enfants_Pré
 
 ```{r}
 #| label: prep-data
+
 df_cours <- df_nc[,1:4] |>
-  dplyr::mutate(Quand=Date)
-#summary(df_cours)
-df_cours$Date <- as.Date(df_cours$Date, format="%Y-%m-%d")
-df_cours <- df_cours |>
+  dplyr::mutate(DateText=Date) |>
+  dplyr::mutate(Date = as.Date(Date, format="%Y-%m-%d")) |>
   dplyr::mutate(Mois = factor(format(Date, "%Y-%m"))) |>
-  dplyr::rename(Nbre = Total.cours) |>
+  dplyr::mutate(Enseignant = factor(Enseignant)) |>
+  dplyr::rename(Pratiquants = Total.cours) |>
   dplyr::mutate(Jour = factor(Jour , levels=c("samedi","mercredi")))
 ```
 
@@ -42,36 +42,59 @@ df_cours <- df_cours |>
 
 ## Column - fréquentation {width=60%}
 
+### Fréquentation par cours
 
 ```{r}
 #| label: frequentation-cours
 #| title: Fréquentation par cours
 
-graph1 <- ggplot(data = df_cours, aes(x = Quand, y = Nbre, group = 1)) +
+graph1 <- ggplot(data = df_cours, aes(x = DateText, y = Pratiquants, group = 1)) +
   geom_point() +
-  geom_line(color="steelblue") +
+  geom_line(color="skyblue") +
   theme(axis.text.x=element_text(angle=90, hjust=1)) +
-  ylim(0, max(df_cours$Nbre) + 1) +
+  ylim(0, max(df_cours$Pratiquants) + 1) +
   xlab("Jour") 
 plotly::ggplotly(graph1)
 ``` 
 
+###  Fréquentation par mois {height=50% .tabset}
+
+::: {.card title="Mois"}
 
 ```{r}
 #| label: frequentation-boxplot-mois
-#| title: Distribution de la fréquentation par mois
 
-graph2 <- ggplot(data = df_cours, aes(x = Mois, y = Nbre)) +
-  geom_boxplot(aes(fill=Jour)) +
-  facet_grid(.~Jour)+
-  stat_summary(fun=mean, geom="point", colour = "black", shape=10, size = 2) +
-  theme(axis.text.x=element_text(angle=90, hjust=1), legend.position = "none") +
-  xlab("Mois") +
-  ylim(0, max(df_cours$Nbre) + 1) +
-  scale_fill_brewer(palette="Blues") 
+graph2 <- ggplot(data = df_cours, aes(x = Mois, y = Pratiquants)) +
+  geom_boxplot(fill = "skyblue") +
+  stat_summary(fun="mean", geom="point", colour = "lightsteelblue4", shape=19, size = 2) + 
+  theme(axis.text.x=element_text(angle=30, hjust=1), legend.position = "none") +
+  xlab(NULL) +
+  #ylab("fréquentation") +
+  ylim(0, max(df_cours$Pratiquants) + 1) +
+  ggtitle("Distribution de la fréquentation par mois")
 
 plotly::ggplotly(graph2)
 ``` 
+:::
+
+::: {.card title="Mois et jour"}
+
+```{r}
+#| label: frequentation-boxplot-mois-sm
+
+graph3 <- ggplot(data = df_cours, aes(x = Mois, y = Pratiquants)) +
+  geom_boxplot(fill = "skyblue") +
+  facet_grid(cols = vars(Jour)) +
+  stat_summary(fun="mean", geom="point", colour = "lightsteelblue4", shape=19, size = 2) + 
+  theme(axis.text.x=element_text(angle=30, hjust=1), legend.position = "none") +
+  xlab(NULL) +
+  ylim(0, max(df_cours$Pratiquants) + 1) +
+  ggtitle("Distribution de la fréquentation par mois et jour")
+
+plotly::ggplotly(graph3)
+
+``` 
+:::
 
 ## Column - Présences {width=30%}
 
@@ -86,6 +109,7 @@ tab_presences <- as.data.frame(presences)
 names(tab_presences)<- c("Cours")
 tab_presences <- data.frame(Pratiquant=names(presences), tab_presences)
 gt(tab_presences)
+
 ``` 
 
 ::: {.card title="Analyse"}
@@ -104,15 +128,15 @@ Mise à jour : `{r} Sys.Date()`
 #| label: frequentation-cours-stats
 #| title: Fréquentation par cours
 #| 
-table_summary_cours <- df_cours %>%
+table_summary_cours <- df_cours |>
     dplyr::summarise(
         cours=n(),
-        min=round(min(Nbre, na.rm=T), 2),
-        Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
-        médiane=round(median(Nbre, na.rm=T), 2),
-        moyenne=round(mean(Nbre, na.rm=T), 2),
-        Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
-        max=round(max(Nbre, na.rm=T), 2))
+        min=round(min(Pratiquants, na.rm=T), 2),
+        Q1=round(quantile(Pratiquants, 0.25, na.rm=T), 2),
+        médiane=round(median(Pratiquants, na.rm=T), 2),
+        moyenne=round(mean(Pratiquants, na.rm=T), 2),
+        Q3=round(quantile(Pratiquants, 0.75, na.rm=T), 2),
+        max=round(max(Pratiquants, na.rm=T), 2))
 knitr::kable(table_summary_cours)
 ```
 
@@ -122,16 +146,16 @@ knitr::kable(table_summary_cours)
 #| label: frequentation-cours-mois
 #| title: Fréquentation par mois
 
-table_summary_cours_mois <- df_cours %>%
-    dplyr::group_by(Mois) %>%
+table_summary_cours_mois <- df_cours |>
+    dplyr::group_by(Mois) |>
     dplyr::summarise(
         cours=n(),
-        min=round(min(Nbre, na.rm=T), 2),
-        Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
-        médiane=round(median(Nbre, na.rm=T), 2),
-        moyenne=round(mean(Nbre, na.rm=T), 2),
-        Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
-        max=round(max(Nbre, na.rm=T), 2))
+        min=round(min(Pratiquants, na.rm=T), 2),
+        Q1=round(quantile(Pratiquants, 0.25, na.rm=T), 2),
+        médiane=round(median(Pratiquants, na.rm=T), 2),
+        moyenne=round(mean(Pratiquants, na.rm=T), 2),
+        Q3=round(quantile(Pratiquants, 0.75, na.rm=T), 2),
+        max=round(max(Pratiquants, na.rm=T), 2))
 knitr::kable(table_summary_cours_mois)
 ```
 
@@ -141,15 +165,15 @@ knitr::kable(table_summary_cours_mois)
 #| label: frequentation-cours-jour
 #| title: Fréquentation par jour
 
-table_summary_cours_jour <- df_cours %>%
-    dplyr::group_by(Jour) %>%
+table_summary_cours_jour <- df_cours |>
+    dplyr::group_by(Jour) |>
     dplyr::summarise(
         cours=n(),
-        min=round(min(Nbre, na.rm=T), 2),
-        Q1=round(quantile(Nbre, 0.25, na.rm=T), 2),
-        médiane=round(median(Nbre, na.rm=T), 2),
-        moyenne=round(mean(Nbre, na.rm=T), 2),
-        Q3=round(quantile(Nbre, 0.75, na.rm=T), 2),
-        max=round(max(Nbre, na.rm=T), 2))
+        min=round(min(Pratiquants, na.rm=T), 2),
+        Q1=round(quantile(Pratiquants, 0.25, na.rm=T), 2),
+        médiane=round(median(Pratiquants, na.rm=T), 2),
+        moyenne=round(mean(Pratiquants, na.rm=T), 2),
+        Q3=round(quantile(Pratiquants, 0.75, na.rm=T), 2),
+        max=round(max(Pratiquants, na.rm=T), 2))
 knitr::kable(table_summary_cours_jour)
 ```

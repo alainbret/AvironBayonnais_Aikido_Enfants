@@ -51,6 +51,7 @@ df_cours <- df_nc[,1:4] |>
 graph1 <- ggplot(data = df_cours, aes(x = DateText, y = Pratiquants, group = 1)) +
   geom_point(aes(colour = Enseignant)) +
   geom_line(color="skyblue") +
+  geom_smooth(method = "loess", se = FALSE, linewidth = 0.5, colour = "Peru", alpha = 0.3) +
   theme(axis.text.x=element_text(angle=90, hjust=1)) +
   ylim(0, max(df_cours$Pratiquants) + 1) +
   xlab("Jour") 
@@ -113,9 +114,7 @@ gt(tab_presences)
 
 ``` 
 
-::: {.card title="Analyse"}
-Mise à jour : `{r} Sys.Date()`
-
+::: {.card title="Analyse *(`{r} Sys.Date()`)*"}
 {{< include _analyse.md >}}
 :::
 
@@ -178,3 +177,9 @@ table_summary_cours_jour <- df_cours |>
         max=round(max(Pratiquants, na.rm=T), 2))
 knitr::kable(table_summary_cours_jour)
 ```
+
+# Aide
+
+::: {.card }
+{{< include _aide.md >}}
+:::

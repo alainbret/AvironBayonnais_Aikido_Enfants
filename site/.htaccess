@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Aurrera ! Aïkido"
+AuthUserFile "/homez.1032/avirony/.htpasswds/aikido/passwd"
+Require valid-user
+

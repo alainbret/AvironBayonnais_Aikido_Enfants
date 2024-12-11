@@ -66,7 +66,6 @@ plotly::ggplotly(graph1)
 
 graph2 <- ggplot(data = df_cours, aes(x = Mois, y = Pratiquants)) +
   geom_boxplot(fill = "skyblue") +
-  geom_jitter(alpha = 0.8, size = 1.5, width = 0.1, height = 0, colour = "darkgoldenrod1") +
   stat_summary(fun="mean", geom="point", colour = "lightsteelblue4", shape=19, size = 2) + 
   theme(axis.text.x=element_text(angle=30, hjust=1), legend.position = "none") +
   xlab(NULL) +
@@ -84,7 +83,7 @@ plotly::ggplotly(graph2)
 
 graph3 <- ggplot(data = df_cours, aes(x = Mois, y = Pratiquants)) +
   geom_boxplot(fill = "skyblue") +
-  geom_jitter(alpha = 0.8, size = 1.5, width = 0.1, height = 0, colour = "darkgoldenrod1") +
+#  facet_grid(cols = vars(Jour)) +
   facet_wrap(~ Jour) +
   stat_summary(fun="mean", geom="point", colour = "lightsteelblue4", shape=19, size = 2) + 
   theme(axis.text.x=element_text(angle=30, hjust=1), legend.position = "none") +

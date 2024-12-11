@@ -88,3 +88,44 @@ attaque shomen uchi
 
 {{< pagebreak >}}
 
+## `[2024-12-11]`
+
+**Objectifs**
+
+- révision 1^er^trimestre
+  - katate dori
+
+**Pratique**
+
+- [x] **salut et échauffement**
+
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [x] **henka / tenkan / tai sabaki**
+
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+_**Saisie Katate Dori**_
+
+- [x] **kokyu nage** (avec tenkan)
+- [x] **kokyu nage** (uchi kaiten)
+- [x] **tenchi nage**
+- [x] **sokumen irimi nage**
+- [x] **shiho nage** omote & ura
+
+- [ ] **Jyu waza sur katate dori** 
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+
+- [x] **salut**

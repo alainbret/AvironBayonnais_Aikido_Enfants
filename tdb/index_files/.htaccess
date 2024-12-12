@@ -1,7 +1,0 @@
-AuthType Basic
-AuthName "Tableau de bord Cours Enfants"
-AuthUserFile "/homez.1032/avirony/.htpasswds/aikido/passwd"
-# ou bien
-#AuthUserFile "/homez.1032/avirony/.htpasswds/section/sous-site/passwd"
-Require valid-user
-

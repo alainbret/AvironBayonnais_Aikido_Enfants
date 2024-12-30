@@ -129,3 +129,59 @@ _**Saisie Katate Dori**_
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 
 - [x] **salut**
+
+{{< pagebreak >}}
+
+## `[2024-12-18]`
+
+**Objectifs**
+
+- révision 1^er^trimestre
+  - Ai Hanmi Katate Dori
+  - Shomen uchi
+
+**Pratique**
+
+- [ ] **salut**
+- [ ] **taiso**
+- [ ] **cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+_**Saisie Ai Hanmi Katate Dori**_
+
+- [ ] **Ikkyo** omote & ura
+- [ ] **Irimi nage**
+
+_**Attaque Shomen Uchi**_
+
+- [ ] **Ikkyo** omote & ura
+- [ ] **Irimi nage**
+
+_**Saisie Ai Hanmi Katate Dori**_
+
+- [ ] **shiho nage** omote & ura
+- [ ] **Jyu waza sur ai hamni katate dori** 
+
+_**Attaque Shomen Uchi**_
+
+- [ ] **Jyu waza sur shomen uchi** 
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [ ] **salut**

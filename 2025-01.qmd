@@ -1,0 +1,85 @@
+# Janvier 2025 {.unnumbered}
+
+## `[2025-01-08]`
+
+**Objectifs**
+
+- attaque `Katate Ryote Dori`
+- techniques
+  - kokyu nage
+  - kokyu ho
+  - irimi nage (extérieur)
+
+**Pratique**
+
+- [ ] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [ ] **Attaque `katate ryote dori`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, monter la main saisie sur son front
+:::
+
+- [ ] **Attaque `katate ryote dori`** / **`kokyu nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, monter la main saisie sur son front
+- tori : pas glissé, et descendre la main saisie à son pied avant
+- uke : chute avant (attention à bien lacher la main de uke)
+:::
+
+- [ ] **Attaque `katate ryote dori`** / **`kokyu ho (sokumen)`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, monter la main saisie sur son front
+- tori : pied arrière revient devant uke, main saisie reste devant le front
+- tori : irimi avec jambe extérieure et laisser tomber le bras
+- uke : chute arrière
+:::
+
+- [ ] **Attaque `katate ryote dori`** / **`irimi nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, monter la main saisie sur son front
+- tori : henka et ouvrir le bras saisi
+- tori : voit le dos d'uke et finit irimi nage
+- uke : chute arrière
+:::
+
+- [ ] **Jyu waza sur les techniques vues** 
+
+::: {.callout-tip title="consignes" collapse="true"}
+- les techniques vues
+- changer toutes les 4 techniques
+:::
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [ ] **salut**
+
+**Présents** : TBW
+
+{{< pagebreak >}}
+

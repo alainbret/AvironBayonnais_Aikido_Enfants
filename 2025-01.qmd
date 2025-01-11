@@ -12,7 +12,7 @@
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
 ::: {.callout-tip title="cardio" collapse="true"}
@@ -26,19 +26,19 @@ courir en rond :
 - shin kokyū
 :::
 
-- [ ] **henka / tenkan / tai sabaki**
-- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
 
 ---
 
-- [ ] **Attaque `katate ryote dori`**
+- [x] **Attaque `katate ryote dori`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : saisie katate dori, puis autre main
 - tori : tenkan, monter la main saisie sur son front
 :::
 
-- [ ] **Attaque `katate ryote dori`** / **`kokyu nage`**
+- [x] **Attaque `katate ryote dori`** / **`kokyu nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : saisie katate dori, puis autre main
@@ -47,7 +47,7 @@ courir en rond :
 - uke : chute avant (attention à bien lacher la main de uke)
 :::
 
-- [ ] **Attaque `katate ryote dori`** / **`kokyu ho (sokumen)`**
+- [x] **Attaque `katate ryote dori`** / **`kokyu ho (sokumen)`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : saisie katate dori, puis autre main
@@ -57,7 +57,7 @@ courir en rond :
 - uke : chute arrière
 :::
 
-- [ ] **Attaque `katate ryote dori`** / **`irimi nage`**
+- [x] **Attaque `katate ryote dori`** / **`irimi nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : saisie katate dori, puis autre main
@@ -67,7 +67,7 @@ courir en rond :
 - uke : chute arrière
 :::
 
-- [ ] **Jyu waza sur les techniques vues** 
+- [x] **Jyu waza sur les techniques vues** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - les techniques vues
@@ -77,9 +77,9 @@ courir en rond :
 ---
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
-- [ ] **salut**
+- [x] **salut**
 
-**Présents** : TBW
+**Présents** : Mathys, Loup-Gaspard, Paul, Michel
 
 {{< pagebreak >}}
 

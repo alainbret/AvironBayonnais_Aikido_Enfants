@@ -33,7 +33,9 @@ lang: fr
 number-sections: true
 format:
   html:
-    theme: journal
+    theme:
+      light: materia
+      dark:  darkly
     default-image-extension: png
   pdf:
     documentclass: scrreprt

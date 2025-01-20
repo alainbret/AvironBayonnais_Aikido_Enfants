@@ -83,3 +83,96 @@ courir en rond :
 
 {{< pagebreak >}}
 
+## `[2025-01-15]`
+
+**Objectifs**
+
+- attaque `Katate Ryote Dori`
+- techniques
+  - kote gaeshi (chute arrière)
+  - ude kime nage (chute avant)
+  - shiho nage (chute arrière)
+
+**Pratique**
+
+- [ ] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [ ] **qu'a-t-on fait mercredi dernier ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+attaque katate ryote dori
+
+- kokyu nage
+- kokyu ho
+- irimi nage (extérieur)
+
+:::
+
+---
+
+
+- [ ] **Attaque `katate ryote dori`** / **`kote gaeshi`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, descendre la main saisie devant soi, position cavalier
+- uke : également en position cavalier
+- tori : saisit avec sa main libre le poignet de uke
+- tori : fait une rotation de sa jambe en gardant bien ses poignets centrés
+- tori : finit kote gaeshi
+- uke : chute arrière
+:::
+
+- [ ] **Attaque `katate ryote dori`** / **`ude kime nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, descend son bras saisi et l'ouvre vers l'extérieur
+- tori : passe son bras libre sous le bras de uke, paume vers le haut
+- tori : avance en irimi, descend son bras, paume vers le bas
+- uke : chute avant
+:::
+
+- [ ] **Attaque `katate ryote dori`** / **`shiho nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, descend son bras saisi et l'ouvre vers l'extérieur
+- tori : avec sa main libre, saisit le poignet de uke
+- tori : avance en irimi en levant les bras, puis rotation et projection à son pied avant
+- uke : chute arrière
+:::
+
+- [ ] **Jyu waza sur les techniques vues** 
+
+::: {.callout-tip title="consignes" collapse="true"}
+- les techniques vues sur katate ryote dori
+- changer toutes les 4 techniques
+:::
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [ ] **salut**
+
+**Présents** : ???
+
+{{< pagebreak >}}
+

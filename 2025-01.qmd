@@ -79,8 +79,6 @@ courir en rond :
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 - [x] **salut**
 
-**Présents** : Mathys, Loup-Gaspard, Paul, Michel
-
 {{< pagebreak >}}
 
 ## `[2025-01-15]`
@@ -92,6 +90,183 @@ courir en rond :
   - kote gaeshi (chute arrière)
   - ude kime nage (chute avant)
   - shiho nage (chute arrière)
+
+**Pratique**
+
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [x] **qu'a-t-on fait mercredi dernier ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+attaque katate ryote dori
+
+- kokyu nage
+- kokyu ho
+- irimi nage (extérieur)
+
+:::
+
+---
+
+
+- [x] **Attaque `katate ryote dori`** / **`kote gaeshi`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, descendre la main saisie devant soi, position cavalier
+- uke : également en position cavalier
+- tori : saisit avec sa main libre le poignet de uke
+- tori : fait une rotation de sa jambe en gardant bien ses poignets centrés
+- tori : finit kote gaeshi
+- uke : chute arrière
+:::
+
+- [x] **Attaque `katate ryote dori`** / **`ude kime nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, descend son bras saisi et l'ouvre vers l'extérieur
+- tori : passe son bras libre sous le bras de uke, paume vers le haut
+- tori : avance en irimi, descend son bras, paume vers le bas
+- uke : chute avant
+:::
+
+- [x] **Attaque `katate ryote dori`** / **`shiho nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, descend son bras saisi et l'ouvre vers l'extérieur
+- tori : avec sa main libre, saisit le poignet de uke
+- tori : avance en irimi en levant les bras, puis rotation et projection à son pied avant
+- uke : chute arrière
+:::
+
+- [x] **Jyu waza sur les techniques vues** 
+
+::: {.callout-tip title="consignes" collapse="true"}
+- les techniques vues sur katate ryote dori
+- changer toutes les 4 techniques
+:::
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [x] **salut**
+
+{{< pagebreak >}}
+
+## `[2025-01-22]`
+
+**Objectifs**
+
+- attaque `Katate Ryote Dori`
+- techniques
+  - ikkyo (omote & ura)
+- révision des autres techniques
+
+**Pratique**
+
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [x] **qu'a-t-on fait mercredi dernier ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+attaque katate ryote dori
+
+- kote gaeshi (chute arrière)
+- ude kime nage (chute avant)
+- shiho nage (chute arrière)
+
+:::
+
+---
+
+
+- [x] **Attaque `katate ryote dori`** / **`ikkyo omote`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, monter la main saisie sur son front
+- tori : revenir en ikkyo omote et finir la technique
+- uke : en protection sur le ventre
+- tori : zanshin et sortie correcte
+:::
+
+- [x] **Attaque `katate ryote dori`** / **`ikkyo ura`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : saisie katate dori, puis autre main
+- tori : tenkan, monter la main saisie sur son front
+- tori : revenir en ikkyo ura et finir la technique
+- uke : en protection sur le ventre
+- tori : zanshin et sortie correcte
+:::
+
+
+- [x] **Jyu waza sur les techniques vues** 
+
+::: {.callout-tip title="consignes" collapse="true"}
+- les techniques vues sur katate ryote dori
+  - kokyu nage
+  - kokyu ho
+  - irimi nage (extérieur)
+  - kote gaeshi (chute arrière)
+  - ude kime nage (chute avant)
+  - shiho nage (chute arrière)
+  - ikkyo (omote & ura)
+- changer toutes les 4 techniques
+:::
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [x] **salut**
+
+{{< pagebreak >}}
+
+## `[2025-01-29]`
+
+**Objectifs**
+
+- attaque `Chudan Tsuki`
+- Sortie extérieure
+- techniques
+  - ude kime nage
+  - kote gaeshi
 
 **Pratique**
 
@@ -114,56 +289,64 @@ courir en rond :
 
 ---
 
-- [ ] **qu'a-t-on fait mercredi dernier ?**
-
-::: {.callout-tip title="rappel" collapse="true"}
-attaque katate ryote dori
-
-- kokyu nage
-- kokyu ho
-- irimi nage (extérieur)
-
-:::
-
----
-
-
-- [ ] **Attaque `katate ryote dori`** / **`kote gaeshi`**
+- [ ] **Attaque `chudan tsuki`** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
-- uke : saisie katate dori, puis autre main
-- tori : tenkan, descendre la main saisie devant soi, position cavalier
-- uke : également en position cavalier
-- tori : saisit avec sa main libre le poignet de uke
-- tori : fait une rotation de sa jambe en gardant bien ses poignets centrés
-- tori : finit kote gaeshi
-- uke : chute arrière
+- individuellement
+  - pied gauche devant
+  - poing droit, niveau hanches, paume vers le haut
+  - poing gauche, bras "tendu" niveau hanches, paume vers le bas
+  - frappe
+    - avancer le pied droit
+    - et em même temps inverser les poings
+- par deux (travail de uke)
+  - par convention, uke attaque du côté du pied avancé
 :::
 
-- [ ] **Attaque `katate ryote dori`** / **`ude kime nage`**
+- [ ] **Attaque `chudan tsuki`** / **`sortie extérieure`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
-- uke : saisie katate dori, puis autre main
-- tori : tenkan, descend son bras saisi et l'ouvre vers l'extérieur
-- tori : passe son bras libre sous le bras de uke, paume vers le haut
-- tori : avance en irimi, descend son bras, paume vers le bas
+- uke : attaque tsuki du côté du pied avancé
+- tori : pas chassé à l'extérieur de uke
+  - ne pas s'éloigner trop
+  - atemi sur la tête de uke avec main extérieure
+  - contrôle du poing de uke avec main intérieure
+:::
+
+- [ ] **Attaque `chudan tsuki`** / **`ude kime nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie extérieure
+- tori : tenkan
+- tori : saisit le poignet de uke
+- tori : glisse son bras sour le coude/épaule de uke
+- tori : irimi, en faisant levier (doucement) sur le bras de uke
 - uke : chute avant
+- tori : zanshin
 :::
 
-- [ ] **Attaque `katate ryote dori`** / **`shiho nage`**
+- [ ] **Attaque `chudan tsuki`** / **`kote gaeshi`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
-- uke : saisie katate dori, puis autre main
-- tori : tenkan, descend son bras saisi et l'ouvre vers l'extérieur
-- tori : avec sa main libre, saisit le poignet de uke
-- tori : avance en irimi en levant les bras, puis rotation et projection à son pied avant
+- uke : attaque chudan tsuki
+- tori : sortie extérieure
+- tori : rotation, jambe arrière, 90°
+- tori : saisit le poignet de uke et torsion kote gaeshi
+- tori : la deuxième main vient en couverture
+- tori : retrait de la jambe avant et irimi en descendant
+  - projection à son pied avant
 - uke : chute arrière
+- tori : zanshin
 :::
+
 
 - [ ] **Jyu waza sur les techniques vues** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
-- les techniques vues sur katate ryote dori
+- les techniques vues sur chudan tsuki
+  - ude kime nage (chute avant)
+  - kote gaeshi (chute arrière)
 - changer toutes les 4 techniques
 :::
 
@@ -171,8 +354,6 @@ attaque katate ryote dori
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 - [ ] **salut**
-
-**Présents** : ???
 
 {{< pagebreak >}}
 

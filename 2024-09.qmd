@@ -41,7 +41,6 @@ _**Saisie Katate Dori**_
 
 - [x] salut
 
-**Présents** : Mathis, Iban
 
 {{< pagebreak >}}
 
@@ -106,7 +105,6 @@ _**Saisie Katate Dori**_
 - [x] retour au calme : allongé, respiration profonde et calme
 - [x] salut
 
-**Présents** : Michel, Louise, Paul, Loup-Gaspard (1er cours),Théodore, Mathis
 
 {{< pagebreak >}}
 
@@ -181,4 +179,3 @@ _**Saisie Ai Hanmi Katate Dori**_
 
 - [x] salut
 
-**Présents** : Michel, Iban, Mathis, Théodore

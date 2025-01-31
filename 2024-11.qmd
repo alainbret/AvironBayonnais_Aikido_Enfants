@@ -103,7 +103,6 @@ _**Attaque `Shomen Uchi` (directe)**_
 
 - [x] **salut**
 
-**Présents** : Mathis, Paul et Loup-Gaspard
 
 {{< pagebreak >}}
 
@@ -187,8 +186,6 @@ _**Attaque `Shomen Uchi` (directe)**_
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 
 - [ ] **salut**
-
-**Présents** : Iban
 
 {{< pagebreak >}}
 
@@ -274,8 +271,6 @@ _**Attaque `Shomen Uchi`**_
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 
 - [x] **salut**
-
-**Présents** : Iban, Loup-Gaspard, Mathis
 
 {{< pagebreak >}}
 

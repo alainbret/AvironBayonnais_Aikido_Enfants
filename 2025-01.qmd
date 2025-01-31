@@ -270,7 +270,7 @@ attaque katate ryote dori
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
 ::: {.callout-tip title="cardio" collapse="true"}
@@ -284,12 +284,12 @@ courir en rond :
 - shin kokyū
 :::
 
-- [ ] **henka / tenkan / tai sabaki**
-- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
 
 ---
 
-- [ ] **Attaque `chudan tsuki`** 
+- [x] **Attaque `chudan tsuki`** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - individuellement
@@ -303,7 +303,7 @@ courir en rond :
   - par convention, uke attaque du côté du pied avancé
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`sortie extérieure`**
+- [x] **Attaque `chudan tsuki`** / **`sortie extérieure`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque tsuki du côté du pied avancé
@@ -313,7 +313,7 @@ courir en rond :
   - contrôle du poing de uke avec main intérieure
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`ude kime nage`**
+- [x] **Attaque `chudan tsuki`** / **`ude kime nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
@@ -326,7 +326,7 @@ courir en rond :
 - tori : zanshin
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`kote gaeshi`**
+- [x] **Attaque `chudan tsuki`** / **`kote gaeshi`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
@@ -340,20 +340,21 @@ courir en rond :
 - tori : zanshin
 :::
 
+- [x] **Attaque `chudan tsuki`** / **`irimi nage`**
 
-- [ ] **Jyu waza sur les techniques vues** 
+- [x] **Jyu waza sur les techniques vues** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - les techniques vues sur chudan tsuki
   - ude kime nage (chute avant)
   - kote gaeshi (chute arrière)
-- changer toutes les 4 techniques
+  - irimi nage
 :::
 
 ---
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
-- [ ] **salut**
+- [x] **salut**
 
 {{< pagebreak >}}
 

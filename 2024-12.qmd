@@ -84,8 +84,6 @@ attaque shomen uchi
 
 - [x] **salut**
 
-**Présents** : Ibàn, Mathis, Loup-Gaspard
-
 {{< pagebreak >}}
 
 ## `[2024-12-11]`
@@ -186,4 +184,3 @@ _**Attaque Shomen Uchi**_
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 - [x] **salut**
 
-**Présents** : Ibàn, Mathis, Michel

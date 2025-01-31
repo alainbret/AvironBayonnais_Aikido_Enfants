@@ -72,8 +72,6 @@ _**Saisie Ai Hanmi Katate Dori**_
 
 - [x] salut
 
-**Présents** : Loup-Gaspard, Paul, Souheil, Iban, Mathis
-
 {{< pagebreak >}}
 
 ## `[2024-10-09]`
@@ -126,8 +124,6 @@ les deux formes
   - kokyu ho | **étirements** | respiration | relaxation
 - [x] **salut**
 
-**Présents** : Michel, Mathis, Théodore, Loup-Gaspard
-
 {{< pagebreak >}}
 
 ## `[2024-10-16]`
@@ -171,7 +167,5 @@ _**Saisie Ai Hanmi Katate Dori**_
 - [x] **retour au calme**
   - kokyu ho | **étirements** | respiration | relaxation
 - [x] **salut**
-
-**Présents** : Mathis, Michel, Iban
 
 {{< pagebreak >}}

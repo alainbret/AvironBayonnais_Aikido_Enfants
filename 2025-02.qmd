@@ -1,0 +1,110 @@
+# Février 2025 {.unnumbered}
+
+## `[2025-02-05]`
+
+**Objectifs**
+
+- attaque `Chudan Tsuki`
+- Sortie intérieure
+- techniques
+  - shiho nage
+  - ikkyo omote & ura
+
+**Pratique**
+
+- [ ] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [ ] **qu'a-t-on fait mercredi dernier ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+attaque  `Chudan Tsuki`  `sortie extérieure`
+
+- ude kime nage (chute avant)
+- kote gaeshi (chute arrière)
+- irimi nage
+
+:::
+
+---
+
+- [ ] **Attaque `chudan tsuki`** / **`sortie intérieure`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque tsuki du côté du pied avancé
+- tori : avance sa jambe arrière (irimi) et légère rotation de l'autre jambe
+  - ne pas s'éloigner trop
+  - atemi sur la tête de uke 
+  - contrôle du poing de uke 
+:::
+
+- [ ] **Attaque `chudan tsuki`** / **`shiho nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie intérieure
+- tori : la main de l'atemi descend le long du bras et saisit le poignet de uke (avec les 2 mains)
+- tori : avance en restant centré et en levant ses bras
+- tori : rotation et finir shiho nage
+- uke : chute arrière
+- tori : zanshin
+:::
+
+- [ ] **Attaque `chudan tsuki`** / **`ikkyo omote`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie intérieure
+- tori : la main de l'atemi descend le long du bras et saisit la main de uke
+- tori : remonte la main et place son autre main sous le coude (en pince)
+- tori : avance
+- tori : finit ikkyo
+- uke : chute arrière
+- tori : zanshin
+:::
+
+- [ ] **Attaque `chudan tsuki`** / **`ikkyo ura`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie intérieure
+- tori : la main de l'atemi descend le long du bras et saisit la main de uke
+- tori : remonte la main et place son autre main sous le coude (en pince)
+- tori : passa sa jambe arrière à l'extérieur
+- tori : tai sabaki et fin en spirale
+- tori : finit ikkyo
+- uke : chute arrière
+- tori : zanshin
+:::
+
+- [ ] **Jyu waza sur les techniques vues** 
+
+::: {.callout-tip title="consignes" collapse="true"}
+- les techniques vues sur chudan tsuki (intérieur)
+  - shiho nage
+  - ikkyo omote & ura
+:::
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [ ] **salut**
+
+{{< pagebreak >}}
+

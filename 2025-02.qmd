@@ -12,6 +12,115 @@
 
 **Pratique**
 
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [x] **qu'a-t-on fait mercredi dernier ?**
+
+::: {.callout-tip title="rappel" collapse="true"}
+attaque  `Chudan Tsuki`  `sortie extérieure`
+
+- ude kime nage (chute avant)
+- kote gaeshi (chute arrière)
+- irimi nage
+
+:::
+
+---
+
+- [x] **Attaque `chudan tsuki`** / **`sortie intérieure`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque tsuki du côté du pied avancé
+- tori : avance sa jambe arrière (irimi) et légère rotation de l'autre jambe
+  - ne pas s'éloigner trop
+  - atemi sur la tête de uke 
+  - contrôle du poing de uke 
+:::
+
+- [x] **Attaque `chudan tsuki`** / **`shiho nage`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie intérieure
+- tori : la main de l'atemi descend le long du bras et saisit le poignet de uke (avec les 2 mains)
+- tori : avance en restant centré et en levant ses bras
+- tori : rotation et finir shiho nage
+- uke : chute arrière
+- tori : zanshin
+:::
+
+- [x] **Attaque `chudan tsuki`** / **`ikkyo omote`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie intérieure
+- tori : la main de l'atemi descend le long du bras et saisit la main de uke
+- tori : remonte la main et place son autre main sous le coude (en pince)
+- tori : avance
+- tori : finit ikkyo
+- uke : chute arrière
+- tori : zanshin
+:::
+
+- [x] **Attaque `chudan tsuki`** / **`ikkyo ura`**
+
+::: {.callout-tip title="consignes" collapse="true"}
+- uke : attaque chudan tsuki
+- tori : sortie intérieure
+- tori : la main de l'atemi descend le long du bras et saisit la main de uke
+- tori : remonte la main et place son autre main sous le coude (en pince)
+- tori : passa sa jambe arrière à l'extérieur
+- tori : tai sabaki et fin en spirale
+- tori : finit ikkyo
+- uke : chute arrière
+- tori : zanshin
+:::
+
+- [ ] **Jyu waza sur les techniques vues** 
+
+::: {.callout-tip title="consignes" collapse="true"}
+- les techniques vues sur chudan tsuki (intérieur)
+  - shiho nage
+  - ikkyo omote & ura
+:::
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [x] **salut**
+
+{{< pagebreak >}}
+
+## `[2025-02-12]`
+
+**Objectifs**
+
+- attaque `Chudan Tsuki`
+- Sortie extérieure
+- techniques
+  - kokyu nage
+  - tenchi nage
+  - ushiro kiri otoshi
+
+**Pratique**
+
 - [ ] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
@@ -34,61 +143,44 @@ courir en rond :
 - [ ] **qu'a-t-on fait mercredi dernier ?**
 
 ::: {.callout-tip title="rappel" collapse="true"}
-attaque  `Chudan Tsuki`  `sortie extérieure`
+attaque  `Chudan Tsuki`  `sortie intérieure`
 
-- ude kime nage (chute avant)
-- kote gaeshi (chute arrière)
-- irimi nage
+- shiho nage omote
+- ikkyo omote & ura
 
 :::
 
 ---
 
-- [ ] **Attaque `chudan tsuki`** / **`sortie intérieure`**
-
-::: {.callout-tip title="consignes" collapse="true"}
-- uke : attaque tsuki du côté du pied avancé
-- tori : avance sa jambe arrière (irimi) et légère rotation de l'autre jambe
-  - ne pas s'éloigner trop
-  - atemi sur la tête de uke 
-  - contrôle du poing de uke 
-:::
-
-- [ ] **Attaque `chudan tsuki`** / **`shiho nage`**
+- [ ] **Attaque `chudan tsuki`** / **`kokyu nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
-- tori : sortie intérieure
-- tori : la main de l'atemi descend le long du bras et saisit le poignet de uke (avec les 2 mains)
-- tori : avance en restant centré et en levant ses bras
-- tori : rotation et finir shiho nage
+- tori : sortie extérieure (atemi dans les côtes flottantes)
+- tori : en faisant tenkan et en ouvrant, la main de l'atemi passe sous le bras de uke bras et saisit le poignet de uke
+- tori : irimi, et avec la main libre, appuyer sur le coude de uke
 - uke : chute arrière
 - tori : zanshin
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`ikkyo omote`**
+- [ ] **Attaque `chudan tsuki`** / **`tenchi nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
-- tori : sortie intérieure
-- tori : la main de l'atemi descend le long du bras et saisit la main de uke
-- tori : remonte la main et place son autre main sous le coude (en pince)
-- tori : avance
-- tori : finit ikkyo
+- tori : sortie extérieure (atemi dans les côtes flottantes)
+- tori : en faisant tenkan et en ouvrant, la main de l'atemi passe sous le bras de uke bras et saisit le poignet de uke
+- tori : la main libre monte verticalement ; appui de l'avant-bras sur la tempe de uke ; irimi en laissant tomber la main
 - uke : chute arrière
 - tori : zanshin
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`ikkyo ura`**
+- [ ] **Attaque `chudan tsuki`** / **`ushiro kiri otoshi`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
-- tori : sortie intérieure
-- tori : la main de l'atemi descend le long du bras et saisit la main de uke
-- tori : remonte la main et place son autre main sous le coude (en pince)
-- tori : passa sa jambe arrière à l'extérieur
-- tori : tai sabaki et fin en spirale
-- tori : finit ikkyo
+- tori : sortie extérieure avec un grand irimi pour passer derrière uke
+- tori : tenkan ; pose ses 2 mains te-katana sur les épaules de uke
+- tori : s'efface derrière uke en maintenant la pression sur les épaules de uke
 - uke : chute arrière
 - tori : zanshin
 :::
@@ -97,8 +189,10 @@ attaque  `Chudan Tsuki`  `sortie extérieure`
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - les techniques vues sur chudan tsuki (intérieur)
-  - shiho nage
-  - ikkyo omote & ura
+  - kokyu nage
+  - tenchi nage
+  - ushiro kiri otoshi
+  - et autres techniques vues précédemment
 :::
 
 ---

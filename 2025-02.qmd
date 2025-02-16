@@ -121,7 +121,7 @@ attaque  `Chudan Tsuki`  `sortie extérieure`
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
 ::: {.callout-tip title="cardio" collapse="true"}
@@ -135,12 +135,12 @@ courir en rond :
 - shin kokyū
 :::
 
-- [ ] **henka / tenkan / tai sabaki**
-- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
 
 ---
 
-- [ ] **qu'a-t-on fait mercredi dernier ?**
+- [x] **qu'a-t-on fait mercredi dernier ?**
 
 ::: {.callout-tip title="rappel" collapse="true"}
 attaque  `Chudan Tsuki`  `sortie intérieure`
@@ -152,7 +152,7 @@ attaque  `Chudan Tsuki`  `sortie intérieure`
 
 ---
 
-- [ ] **Attaque `chudan tsuki`** / **`kokyu nage`**
+- [x] **Attaque `chudan tsuki`** / **`kokyu nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
@@ -163,7 +163,7 @@ attaque  `Chudan Tsuki`  `sortie intérieure`
 - tori : zanshin
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`tenchi nage`**
+- [x] **Attaque `chudan tsuki`** / **`tenchi nage`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
@@ -174,7 +174,7 @@ attaque  `Chudan Tsuki`  `sortie intérieure`
 - tori : zanshin
 :::
 
-- [ ] **Attaque `chudan tsuki`** / **`ushiro kiri otoshi`**
+- [x] **Attaque `chudan tsuki`** / **`ushiro kiri otoshi`**
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - uke : attaque chudan tsuki
@@ -185,7 +185,7 @@ attaque  `Chudan Tsuki`  `sortie intérieure`
 - tori : zanshin
 :::
 
-- [ ] **Jyu waza sur les techniques vues** 
+- [x] **Jyu waza sur les techniques vues** 
 
 ::: {.callout-tip title="consignes" collapse="true"}
 - les techniques vues sur chudan tsuki (intérieur)
@@ -198,7 +198,7 @@ attaque  `Chudan Tsuki`  `sortie intérieure`
 ---
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
-- [ ] **salut**
+- [x] **salut**
 
 {{< pagebreak >}}
 

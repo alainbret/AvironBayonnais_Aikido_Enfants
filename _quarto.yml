@@ -21,6 +21,8 @@ book:
       - 2024-12.qmd
       - 2025-01.qmd
       - 2025-02.qmd
+      - 2025-03.qmd
+      - 2025-04.qmd
 page-navigation: true
 papersize: a4
 geometry:

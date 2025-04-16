@@ -12,6 +12,98 @@
 
 **Pratique**
 
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [x] **Attaque `Ai Hanmi Katate Dori / ikkyo omote & ura`**
+- [x] **Attaque `Ai Hanmi Katate Dori / iriminage`**
+
+- [x] **Attaque `Shomen Uchi / ikkyo omote & ura`**
+- [x] **Attaque `Shomen Uchi / iriminage`**
+
+- [x] **Attaque `Chudan Tsuki / ikkyo omote & ura`**
+- [x] **Attaque `Chudan Tsuki / iriminage`**
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [x] **salut**
+
+## `[2025-04-09]`
+
+**Objectifs**
+
+- `shiho nage & ude kime nage omote & ura`
+- attaques 
+  - `Ai Hanmi Katate Dori`
+  - `katate Dori`
+  - `Chudan Tsuki`
+
+**Pratique**
+
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [ ] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [x] **Attaque `Ai Hanmi Katate Dori / shiho nage omote & ura`**
+- [x] **Attaque `Ai Hanmi Katate Dori / ude kime nage`**
+
+- [x] **Attaque `Katate Dori /shiho nage omote & ura`**
+- [x] **Attaque `Katate Dori / ude kime nage`**
+
+- [x] **Attaque `Chudan Tsuki / shiho nage omote & ura`**
+- [x] **Attaque `Chudan Tsuki / ude kime nage`**
+
+---
+
+- [ ] **kokyu ho | étirements | respiration | relaxation**
+- [x] **salut**
+
+## `[2025-04-16]`
+
+**Objectifs**
+
+- `kote gaeshi`
+- attaques 
+  - `Ai Hanmi Katate Dori`
+  - `Shomen Uchi`
+  - `Katate Dori`
+  - `Chudan Tsuki`
+  - `Morote Dori`
+
+**Pratique**
+
 - [ ] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
@@ -31,17 +123,13 @@ courir en rond :
 
 ---
 
-- [ ] **Attaque `Ai Hanmi Katate Dori / ikkyo omote & ura`**
-- [ ] **Attaque `Ai Hanmi Katate Dori / iriminage`**
-
-- [ ] **Attaque `Shomen Uchi / ikkyo omote & ura`**
-- [ ] **Attaque `Shomen Uchi / iriminage`**
-
-- [ ] **Attaque `Chudan Tsuki / ikkyo omote & ura`**
-- [ ] **Attaque `Chudan Tsuki / iriminage`**
+- [ ] **Attaque `Ai Hanmi Katate Dori / kote gaeshi`**
+- [ ] **Attaque `Shomen uchi          / kote gaeshi`**
+- [ ] **Attaque `Katate Dori          / kote gaeshi`**
+- [ ] **Attaque `Chudan Tsuki         / kote gaeshi`**
+- [ ] **Attaque `Morote Dori          / kote gaeshi`**
 
 ---
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
 - [ ] **salut**
-

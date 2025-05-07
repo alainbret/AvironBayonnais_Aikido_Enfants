@@ -104,7 +104,7 @@ courir en rond :
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
 ::: {.callout-tip title="cardio" collapse="true"}
@@ -119,17 +119,17 @@ courir en rond :
 :::
 
 - [ ] **henka / tenkan / tai sabaki**
-- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
 
 ---
 
-- [ ] **Attaque `Ai Hanmi Katate Dori / kote gaeshi`**
-- [ ] **Attaque `Shomen uchi          / kote gaeshi`**
-- [ ] **Attaque `Katate Dori          / kote gaeshi`**
-- [ ] **Attaque `Chudan Tsuki         / kote gaeshi`**
-- [ ] **Attaque `Morote Dori          / kote gaeshi`**
+- [x] **Attaque `Ai Hanmi Katate Dori / kote gaeshi`**
+- [x] **Attaque `Shomen uchi          / kote gaeshi`**
+- [x] **Attaque `Katate Dori          / kote gaeshi`**
+- [x] **Attaque `Chudan Tsuki         / kote gaeshi`**
+- [x] **Attaque `Morote Dori          / kote gaeshi`**
 
 ---
 
 - [ ] **kokyu ho | étirements | respiration | relaxation**
-- [ ] **salut**
+- [x] **salut**

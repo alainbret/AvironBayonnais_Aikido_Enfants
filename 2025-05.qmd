@@ -52,7 +52,7 @@ courir en rond :
 
 **Pratique**
 
-- [ ] **salut et échauffement**
+- [x] **salut et échauffement**
 - [ ] **courir en rond : un peu de cardio**
 
 ::: {.callout-tip title="cardio" collapse="true"}
@@ -66,8 +66,8 @@ courir en rond :
 - shin kokyū
 :::
 
-- [ ] **henka / tenkan / tai sabaki**
-- [ ] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
 
 ---
 
@@ -77,13 +77,97 @@ courir en rond :
 - [x] **Attaque `Ai Hanmi Katate Dori / irimi nage`**
 - [x] **Attaque `Ai Hanmi Katate Dori / shiho nage`**
 
-- [ ] **Attaque `Shomen Uchi / ikkyo omote & ura`**
-- [ ] **Attaque `Shomen Uchi / irimi nage`**
+- [x] **Attaque `Shomen Uchi / ikkyo omote & ura`**
+- [x] **Attaque `Shomen Uchi / irimi nage`**
 
-- [ ] **Attaque `Katate Dori / shiho nage`**
-- [ ] **Attaque `Katate Dori / tenchi nahe`**
+- [x] **Attaque `Katate Dori / shiho nage`**
+- [x] **Attaque `Katate Dori / tenchi nahe`**
+
+---
+
+- [x] **kokyu hō**
+- [x] **salut**
+
+## `[2025-05-21]`
+
+**Objectifs**
+
+- catalogue 4^ème^ kyu 
+
+**Pratique**
+
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [ ] **`Shikko`**
+
+- [x] **Attaque `Ai Hanmi Katate Dori / kote gaeshi`**
+- [x] **Attaque `Ai Hanmi Katate Dori / ude kime nage`**
+
+- [x] **Attaque `Katate Dori / ikkyo omote & ura`**
+- [x] **Attaque `Katate Dori / ude kime nage`**
+- [ ] **Attaque `Katate Dori / sokumen irimi nage`**
 
 ---
 
 - [ ] **kokyu hō**
 - [ ] **salut**
+
+{{< pagebreak >}}
+
+## `[2025-05-28]`
+
+**Objectifs**
+
+- catalogue 4^ème^ kyu 
+
+**Pratique**
+
+- [x] **salut et échauffement**
+- [ ] **courir en rond : un peu de cardio**
+
+::: {.callout-tip title="cardio" collapse="true"}
+courir en rond : 
+
+- changements de direction
+- flexion au "top" : x1 x2 x3
+- pas chassés : intérieurs puis extérieurs
+- talons-fesses
+- marcher tranquillement
+- shin kokyū
+:::
+
+- [x] **henka / tenkan / tai sabaki**
+- [x] **apprentissage de la chute arrière & chute avant (tapis & tatamis)**
+
+---
+
+- [ ] **`Shikko`**
+
+- [x] **Attaque `Katate Dori / sokumen irimi nage`**
+- [x] **Attaque `Katate Dori / uchi kaiten nage`**
+
+- [x] **Attaque `Shomen Uchi / kote gaeshi`**
+
+- [x] **Attaque `Ryote Dori / tenchi nage`**
+
+---
+
+- [ ] **kokyu hō**
+- [x] **salut**

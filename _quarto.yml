@@ -24,6 +24,7 @@ book:
       - 2025-03.qmd
       - 2025-04.qmd
       - 2025-05.qmd
+      - 2025-06.qmd
 page-navigation: true
 papersize: a4
 geometry:
